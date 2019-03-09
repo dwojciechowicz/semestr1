@@ -1,2 +1,2 @@
 # semestr1
-Projekt reprezentuje system plików z wykorzystaniem struktury drzewa.
+Projekt reprezentuje system plików przechowujacy informację o obrazach z wykorzystaniem struktury drzewa.
